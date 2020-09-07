@@ -2,6 +2,7 @@
     border: 1px solid red;
     border-radius: 10px;
     margin: 10px;
+    overflow: hidden;
 }
 
 .userFullName{
@@ -43,10 +44,13 @@
 .footerArea{
     text-align: right;
     background-color: lightgray;
+    line-height: 40px;
+    padding-right: 3%;
 }
 
 .btnAddFriend{
-    background-color: #333;
-    border-radius: 10%;
+    background-color: lightseagreen;
+    border-radius: 5%;
     color: #fff;
+    font-size: 20px;
 }

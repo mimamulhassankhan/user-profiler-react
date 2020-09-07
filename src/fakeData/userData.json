@@ -9,7 +9,8 @@
   "phone": "200-900-1792",
   "company_name": "Youspan",
   "designation": "Human Resources Manager",
-  "address": "464 Bowman Street"
+  "address": "464 Bowman Street",
+  "salary": 46541
 }, {
   "id": 2,
   "full_name": "Saul Neath",
@@ -21,7 +22,8 @@
   "phone": "833-809-5236",
   "company_name": "Quamba",
   "designation": "Accountant IV",
-  "address": "0670 Corben Center"
+  "address": "0670 Corben Center",
+  "salary": 35656
 }, {
   "id": 3,
   "full_name": "Marianna Hindenburg",
@@ -33,7 +35,8 @@
   "phone": "275-560-1122",
   "company_name": "Yadel",
   "designation": "Research Assistant III",
-  "address": "7012 Paget Avenue"
+  "address": "7012 Paget Avenue",
+  "salary": 15658
 }, {
   "id": 4,
   "full_name": "Biddy Gathwaite",
@@ -45,7 +48,8 @@
   "phone": "815-952-6642",
   "company_name": "Tazzy",
   "designation": "Programmer IV",
-  "address": "3688 Sachs Lane"
+  "address": "3688 Sachs Lane",
+  "salary": 54687
 }, {
   "id": 5,
   "full_name": "Tonya Buxy",
@@ -57,7 +61,8 @@
   "phone": "677-441-5944",
   "company_name": "Zazio",
   "designation": "Occupational Therapist",
-  "address": "64971 Pierstorff Way"
+  "address": "64971 Pierstorff Way",
+  "salary": 93231
 }, {
   "id": 6,
   "full_name": "Waldo Leeburn",
@@ -69,7 +74,8 @@
   "phone": "830-665-9835",
   "company_name": "Topiclounge",
   "designation": "Compensation Analyst",
-  "address": "6 Texas Place"
+  "address": "6 Texas Place",
+  "salary": 12547
 }, {
   "id": 7,
   "full_name": "Camile Kelso",
@@ -81,7 +87,8 @@
   "phone": "380-276-3815",
   "company_name": "Gabtype",
   "designation": "Assistant Media Planner",
-  "address": "42444 New Castle Junction"
+  "address": "42444 New Castle Junction",
+  "salary": 15656
 }, {
   "id": 8,
   "full_name": "Judi Golsthorp",
@@ -93,7 +100,8 @@
   "phone": "214-659-7122",
   "company_name": "Jazzy",
   "designation": "Senior Quality Engineer",
-  "address": "86 Lien Terrace"
+  "address": "86 Lien Terrace",
+  "salary": 21369
 }, {
   "id": 9,
   "full_name": "Genvieve Ogglebie",
@@ -105,7 +113,8 @@
   "phone": "635-265-8821",
   "company_name": "Brainlounge",
   "designation": "Systems Administrator IV",
-  "address": "01 Warbler Junction"
+  "address": "01 Warbler Junction",
+  "salary": 98635
 }, {
   "id": 10,
   "full_name": "Cacilie Heffernan",
@@ -117,7 +126,8 @@
   "phone": "341-654-7193",
   "company_name": "Rhyzio",
   "designation": "Help Desk Technician",
-  "address": "93920 Farwell Avenue"
+  "address": "93920 Farwell Avenue",
+  "salary": 65568
 }, {
   "id": 11,
   "full_name": "Addison Chalice",
@@ -129,7 +139,8 @@
   "phone": "592-687-8005",
   "company_name": "Zoombeat",
   "designation": "Geological Engineer",
-  "address": "0850 Farmco Court"
+  "address": "0850 Farmco Court",
+  "salary": 35611
 }, {
   "id": 12,
   "full_name": "Claudelle Porkiss",
@@ -141,7 +152,8 @@
   "phone": "582-244-1617",
   "company_name": "Voonte",
   "designation": "Librarian",
-  "address": "28821 Sherman Plaza"
+  "address": "28821 Sherman Plaza",
+  "salary": 55621
 }, {
   "id": 13,
   "full_name": "Julina Petrik",
@@ -153,7 +165,8 @@
   "phone": "134-409-2099",
   "company_name": "Jabberstorm",
   "designation": "Paralegal",
-  "address": "8 Chive Parkway"
+  "address": "8 Chive Parkway",
+  "salary": 78120
 }, {
   "id": 14,
   "full_name": "Enriqueta MacIlraith",
@@ -165,7 +178,8 @@
   "phone": "399-613-9888",
   "company_name": "Kwilith",
   "designation": "Help Desk Operator",
-  "address": "9073 Holmberg Pass"
+  "address": "9073 Holmberg Pass",
+  "salary": 23647
 }, {
   "id": 15,
   "full_name": "Carmella Baselli",
@@ -177,5 +191,6 @@
   "phone": "343-261-8347",
   "company_name": "Yakitri",
   "designation": "Computer Systems Analyst I",
-  "address": "0 Hanover Crossing"
+  "address": "0 Hanover Crossing",
+  "salary": 21663
 }]

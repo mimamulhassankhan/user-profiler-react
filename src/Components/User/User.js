@@ -4,7 +4,7 @@ import {faHome, faEnvelope, faBuilding, faVenusMars, faUserMd, faPlus} from '@fo
 import './User.css'
 
 const User = (props) => {
-    console.log(props.user);
+    console.log(props.clickHandler);
     const {full_name, avater, company_name, address, email, gender, designation} = props.user;
     return (
         <div>
@@ -29,7 +29,7 @@ const User = (props) => {
                     </div>
                 </div>
                 <div className="footerArea">
-                    <button className="btnAddFriend">Add Friend <FontAwesomeIcon icon={faPlus}/></button>
+                    <button onClick={() => props.clickHandler(props.user)} className="btnAddFriend">Add Friend <FontAwesomeIcon icon={faPlus}/></button>
                 </div>
             </div>
         </div>
