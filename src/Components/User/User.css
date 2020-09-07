@@ -1,0 +1,52 @@
+.userBody{
+    border: 1px solid red;
+    border-radius: 10px;
+    margin: 10px;
+}
+
+.userFullName{
+    background-color: aquamarine;
+    text-align: left;
+    padding-left: 20px;
+}
+
+.userFullName h3{
+    color: crimson;
+    line-height: 40px;
+    margin-top: 0px;
+    border-radius: 10px;
+}
+
+.userDetailsSection{
+    display: flex;
+    padding: 0px 20px;
+}
+
+.userInformation{
+    text-align: left;
+}
+
+.userImageArea img{
+    border: 1px solid goldenrod;
+    border-radius: 50%;
+}
+
+.user{
+    padding-left: 20px;
+}
+
+.userJobInfo{
+    text-align: left;
+    padding-left: 100px;
+}
+
+.footerArea{
+    text-align: right;
+    background-color: lightgray;
+}
+
+.btnAddFriend{
+    background-color: #333;
+    border-radius: 10%;
+    color: #fff;
+}
